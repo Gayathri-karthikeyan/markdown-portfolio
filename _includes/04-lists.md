@@ -1,3 +1,3 @@
-Ice cream 
-Cake
-Chocolates
+* Ice cream 
+* Cake
+* Chocolates
